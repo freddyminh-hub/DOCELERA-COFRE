@@ -11,6 +11,7 @@ Gerenciador de senhas, passkeys, links e notas seguras da Docelera, com criptogr
 | [docs/PLANO.md](docs/PLANO.md) | Decisões de produto aprovadas e fases |
 | [docs/MODELO_AMEACAS.md](docs/MODELO_AMEACAS.md) | Atacantes, ativos, ameaças e mitigações |
 | [docs/ESPEC_CRIPTO.md](docs/ESPEC_CRIPTO.md) | Hierarquia de chaves, protocolos e fluxos |
+| [docs/REVISAO_INTERNA.md](docs/REVISAO_INTERNA.md) | Revisão interna do desenho (rodada 1): achados e decisões pendentes |
 | [docs/REVISAO_EXTERNA.md](docs/REVISAO_EXTERNA.md) | Escopo e candidatos para a auditoria independente |
 
 ## Regras do repositório

@@ -1,5 +1,7 @@
 # Revisão externa — escopo e candidatos
 
+> **Decisão 2026-11-17:** a rodada 1 (revisão do desenho) é feita internamente; ver [REVISAO_INTERNA.md](REVISAO_INTERNA.md). A rodada 2, paga e externa, é mantida antes da venda.
+
 ## Duas rodadas
 
 | Rodada | Quando | Escopo | Entregáveis que pedimos |
